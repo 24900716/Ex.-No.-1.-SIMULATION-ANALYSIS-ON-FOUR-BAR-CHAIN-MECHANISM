@@ -48,6 +48,8 @@
 
 
 ## Output:
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
+![Screenshot (1)](https://github.com/user-attachments/assets/f344776c-3056-46f3-b2bb-d68a477374bf)
 
 
 ### Name:Dinesh karthik R
